@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: http://imihajlow.github.io/sitemap.xml

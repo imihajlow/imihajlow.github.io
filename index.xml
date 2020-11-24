@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan&#39;s blog</title>
+    <link>http://imihajlow.github.io/</link>
+    <description>Recent content on Ivan&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2020 18:53:35 +0200</lastBuildDate><atom:link href="http://imihajlow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discrete logic IC CPU</title>
+      <link>http://imihajlow.github.io/posts/ccpu/</link>
+      <pubDate>Sun, 11 Oct 2020 18:53:35 +0200</pubDate>
+      
+      <guid>http://imihajlow.github.io/posts/ccpu/</guid>
+      <description>Since I was a kid I&amp;rsquo;ve always wanted to build my own computer. First I had only vague ideas of how computers are made, then I got myself a book about building an 8080-based computer and programming it, later, of course, I&amp;rsquo;ve got a lot of experience with various computers and microcontrollers, but I&amp;rsquo;ve never built one from scratch. Now, when I&amp;rsquo;m 30, I can say I have fulfilled my childhood dream.</description>
+    </item>
+    
+  </channel>
+</rss>
